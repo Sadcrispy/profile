@@ -42,6 +42,7 @@ a:hover {
   letter-spacing: 2px;
 }
 
+/* flex here */
 .flex {
   text-align: center;
   display: flex;
